@@ -29,7 +29,7 @@ main( )
         exit( 1 );
     }
 
-    printf( "thread_return:%p\n", thread_return );
+    printf( "thread_return:%d\n", thread_return );
 
     return 0;
 }
